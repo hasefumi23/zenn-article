@@ -159,6 +159,7 @@ VS Code で Markdown を書く時に覚えておくとちょっとだけ便利�
 
 ---
 
-以上、Markdownを書く環境の紹介でした。少しでも読んでくれた人の役に立てたら嬉しいです😁
-皆さんもMarkdown関連のオススメExtensionなどがあったら教えて下さい🙏
-それではHappy writing✨
+以上、Markdown を書く環境の紹介でした。少しでも読んでくれた人の役に立てたら嬉しいです😁
+人に Markdown について教える機会がありそうなので、この機会に記事にしました💪
+皆さんも Markdown 関連のオススメ Extension などがあったら教えて下さい🙏
+それでは Happy writing✨
