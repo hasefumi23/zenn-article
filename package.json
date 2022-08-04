@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hasefumi23/zenn-article/issues"
   },
-  "homepage": "https://github.com/hasefumi23/zenn-article#readme"
+  "homepage": "https://github.com/hasefumi23/zenn-article#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.116"
+  }
 }
